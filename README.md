@@ -5,7 +5,11 @@
 A visually engaging dice rolling simulator built with HTML, CSS, and JavaScript.
 
 Preview:
-<img width=100% src="img/thumbnail.PNG">
+
+<div align="left>
+<img height=200px src="img/Roll-dice-preview.gif">
+<img height=200px src="img/thumbnail-600x400.png">
+</div>
 
 This project showcases the power of CSS transforms and animations to create dynamic and interactive user experiences. Users can click a button to roll the dice, and the dice will realistically animate as it tumbles to a random face.
 
