@@ -6,7 +6,7 @@ A visually engaging dice rolling simulator built with HTML, CSS, and JavaScript.
 
 Preview:
 
-<div align="left>
+<div align="left">
 <img height=200px src="img/Roll-dice-preview.gif">
 <img height=200px src="img/thumbnail-600x400.png">
 </div>
